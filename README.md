@@ -1,6 +1,7 @@
 # Projet_Expressions_faciales-motions-
 Données utilisées :
 ➔ FER2013 (images de visages annotés en 7 émotions : angry, disgust, fear, happy, neutral, sad, surprise)
+https://www.kaggle.com/datasets/msambare/fer2013/code
 
 Prétraitements appliqués :
 ➔ Redimensionnement (48x48)
